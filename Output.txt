@@ -1,0 +1,19 @@
+Enter the Number of Elements in an array : 7 
+Enter the Array elements
+15
+78
+156
+-45
+-2
+7
+28
+
+
+After Sorting....
+-45
+-2
+7
+15
+28
+78
+156
